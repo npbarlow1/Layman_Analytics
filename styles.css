@@ -1,0 +1,41 @@
+300px;body {
+        background-color: navy;
+}
+
+header, footer {
+    background-color: grey;
+    Color: rgb(0, 34, 68);
+    text-align: center;
+}
+
+li {
+    border: solid blue 1px;
+    display: inline-block
+    padding: 10px;
+    margin: 5px 20px ;
+}
+
+section {
+    background-color: black;
+    border: 1px gray;
+    margin: 10px 0px;
+}
+
+img {
+    border:solid black 1px;
+}
+
+#analytics {
+    width: 
+}
+
+.numbers{
+    border-radius: 20px;
+}
+
+p {
+    border: solid black 1px;
+    display: inline-block;
+    width: 700px;
+}
+
