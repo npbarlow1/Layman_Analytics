@@ -1,1 +1,3 @@
-var userName = promot('Please enter your name?');
+var userName = prompt('Please enter your name?');
+
+document.write(userName);
